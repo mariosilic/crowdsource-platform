@@ -141,7 +141,14 @@
     .when('/contributors/Mario', {
         templateUrl: '/static/templates/contributors/mario.html'
     })
+<<<<<<< HEAD
 
+=======
+	
+	.when('/contributors/AmitRakesh', {
+		templateUrl: '/static/templates/contributors/amitrakesh.html'
+	})
+>>>>>>> 2a70557807daf8ea8734e5840dcc80ccca35d356
       
 	 
     .otherwise('/');   
